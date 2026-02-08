@@ -42,18 +42,25 @@ Download all logo files from the [`/logos`](./logos/) directory.
 
 ### Brand Colors
 
-| Color | Hex | Usage |
-|-------|-----|-------|
-| Yocoya Orange | `#FF6B35` | Primary accent, CTAs |
-| Deep Purple | `#2D1B69` | Headers, dark backgrounds |
-| Dark Navy | `#1A1A2E` | Body text, dark mode |
-| White | `#FFFFFF` | Light text, backgrounds |
+| Color | Hex | Swatch | Usage |
+|-------|-----|--------|-------|
+| Amber (Primary) | `#F59E0B` | ![#F59E0B](https://via.placeholder.com/16/F59E0B/F59E0B.png) | Primary accent, CTAs, affiliate buttons |
+| Amber Light | `#FBBF24` | ![#FBBF24](https://via.placeholder.com/16/FBBF24/FBBF24.png) | Hover states, highlights |
+| Amber Dark | `#D97706` | ![#D97706](https://via.placeholder.com/16/D97706/D97706.png) | Gradient endpoints, pressed states |
+| Violet (Secondary) | `#8B5CF6` | ![#8B5CF6](https://via.placeholder.com/16/8B5CF6/8B5CF6.png) | AI/tech indicator, secondary accent |
+| Zinc-950 (Base) | `#09090B` | ![#09090B](https://via.placeholder.com/16/09090B/09090B.png) | Page background (dark mode) |
+| Zinc-900 (Surface) | `#18181B` | ![#18181B](https://via.placeholder.com/16/18181B/18181B.png) | Cards, sections |
+| Zinc-50 (Text) | `#FAFAFA` | ![#FAFAFA](https://via.placeholder.com/16/FAFAFA/FAFAFA.png) | Primary text |
+| Zinc-400 | `#A1A1AA` | ![#A1A1AA](https://via.placeholder.com/16/A1A1AA/A1A1AA.png) | Secondary text, descriptions |
+
+**Design approach**: Dark-mode-first ("Linear meets Shopify Mexico"). 60% dark background, 30% surface, 10% amber accent.
 
 ### Typography
 
-- **Headlines**: Inter Bold
-- **Body**: Inter Regular
-- **Accent/Code**: Mono
+- **Font**: Inter (variable, 400–700)
+- **Headlines**: Inter Bold, tight letter-spacing (-0.02em to -0.03em)
+- **Body**: Inter Regular, 16px, line-height 1.6
+- **Overline labels**: Inter SemiBold, 11px, uppercase, amber color
 
 ---
 

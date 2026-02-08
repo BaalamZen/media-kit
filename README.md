@@ -104,7 +104,7 @@ Yocoya is ad-free. Some links on our site are affiliate links — we may earn a 
 
 For partnerships, press inquiries, or affiliate collaborations:
 
-- **Email**: hello@yocoya.ai
+- **Email**: hola@yocoya.ai
 - **Website**: [yocoya.ai/sobre](https://yocoya.ai/sobre)
 
 ---

@@ -28,17 +28,15 @@ Founded by **Baalam LLC**, Yocoya was built by Mexican creators and strategists 
 
 | Variant | Preview |
 |---------|---------|
-| White (dark bg) | ![Yocoya Logo White](logos/yocoya_logo_white.png) |
-| Dark (light bg) | ![Yocoya Logo Dark](logos/yocoya_logo_dark.png) |
+| Full logo | ![Yocoya Logo](logos/yocoya_logo.png) |
 | Icon only | ![Yocoya Icon](logos/yocoya_icon.png) |
 
 Download all logo files from the [`/logos`](./logos/) directory.
 
 ### Usage Guidelines
 
-- Maintain clear space around the logo (minimum 1x the height of the "Y" icon)
+- Maintain clear space around the logo (minimum 1x the height of the icon)
 - Do not stretch, rotate, or alter the logo colors
-- On dark backgrounds, use the white variant; on light backgrounds, use the dark variant
 
 ### Brand Colors
 

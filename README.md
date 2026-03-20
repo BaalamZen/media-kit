@@ -2,11 +2,11 @@
 
 ## About Yocoya
 
-**Yocoya.ai** is the leading Spanish-language AI platform for Mexico and Latin America. We curate AI tools, news, educational resources, and communities — adapted for the realities of the LATAM market, not just translated from English.
+**Yocoya.ai** is the leading Spanish-language WhatsApp business tools directory and Kommo CRM partner hub for Mexico and Latin America. We help WhatsApp-dependent businesses discover, compare, and adopt the right tool stack — with Kommo as the recommended CRM hub.
 
-Founded by **Baalam LLC**, Yocoya was built by Mexican creators and strategists who saw that 90% of AI content was in English and disconnected from the LATAM economy and culture. We changed that.
+Founded by **Baalam LLC**, Yocoya was built by Mexican creators and strategists who saw that most business automation content was in English and disconnected from the LATAM economy and culture. We changed that.
 
-> *"No solo traducimos tecnologia; la adaptamos a tu realidad."*
+> *"No solo traducimos tecnología; la adaptamos a tu realidad."*
 > — We don't just translate technology; we adapt it to your reality.
 
 ---
@@ -15,10 +15,11 @@ Founded by **Baalam LLC**, Yocoya was built by Mexican creators and strategists 
 
 | Section | Description |
 |---------|-------------|
-| **Herramientas** (Tools) | Curated directory of 500+ AI tools with pricing, use cases, and honest reviews |
-| **Noticias** (News) | Daily AI news from 50+ specialized sources, filtered for LATAM relevance |
-| **Recursos** (Resources) | APIs, courses, certifications, and communities for learning AI |
-| **Boletin FrecuenciA** | Weekly newsletter delivering curated AI insights to subscribers |
+| **Herramientas** (Tools) | Curated directory of WhatsApp business tools with pricing, use cases, and honest reviews |
+| **Stacks** | Pre-built tool combinations radiating from Kommo CRM (Lead Gen, Sales Automation, Customer Service) |
+| **Noticias** (News) | Daily AI and WhatsApp business news from 50+ sources, filtered for LATAM relevance |
+| **Recursos** (Resources) | APIs, courses, certifications, and communities for learning automation |
+| **Boletín FrecuenciA** | Weekly newsletter delivering curated insights to subscribers |
 
 ---
 
@@ -37,28 +38,29 @@ Download all logo files from the [`/logos`](./logos/) directory.
 
 - Maintain clear space around the logo (minimum 1x the height of the icon)
 - Do not stretch, rotate, or alter the logo colors
+- Logo has a transparent background — place on light or gradient backgrounds
 
 ### Brand Colors
 
-| Color | Hex | Swatch | Usage |
-|-------|-----|--------|-------|
-| Amber (Primary) | `#F59E0B` | ![#F59E0B](https://via.placeholder.com/16/F59E0B/F59E0B.png) | Primary accent, CTAs, affiliate buttons |
-| Amber Light | `#FBBF24` | ![#FBBF24](https://via.placeholder.com/16/FBBF24/FBBF24.png) | Hover states, highlights |
-| Amber Dark | `#D97706` | ![#D97706](https://via.placeholder.com/16/D97706/D97706.png) | Gradient endpoints, pressed states |
-| Violet (Secondary) | `#8B5CF6` | ![#8B5CF6](https://via.placeholder.com/16/8B5CF6/8B5CF6.png) | AI/tech indicator, secondary accent |
-| Zinc-950 (Base) | `#09090B` | ![#09090B](https://via.placeholder.com/16/09090B/09090B.png) | Page background (dark mode) |
-| Zinc-900 (Surface) | `#18181B` | ![#18181B](https://via.placeholder.com/16/18181B/18181B.png) | Cards, sections |
-| Zinc-50 (Text) | `#FAFAFA` | ![#FAFAFA](https://via.placeholder.com/16/FAFAFA/FAFAFA.png) | Primary text |
-| Zinc-400 | `#A1A1AA` | ![#A1A1AA](https://via.placeholder.com/16/A1A1AA/A1A1AA.png) | Secondary text, descriptions |
+| Color | Hex | Usage |
+|-------|-----|-------|
+| Teal (Primary) | `#0D8A9A` | Primary brand color, headings, key UI elements |
+| Teal Light | `#1FB6C9` | Gradients, hover states, accent highlights |
+| Warm Orange (CTA) | `#F97316` | Call-to-action buttons, affiliate links, emphasis |
+| White | `#FFFFFF` | Primary text, card surfaces |
+| Slate-50 | `#F8FAFC` | Page backgrounds, subtle fills |
+| Slate-600 | `#475569` | Secondary text, descriptions |
+| Slate-900 | `#0F172A` | Dark text, headings on light backgrounds |
 
-**Design approach**: Dark-mode-first ("Linear meets Shopify Mexico"). 60% dark background, 30% surface, 10% amber accent.
+**Design approach**: Glassmorphism on gradient mesh backgrounds. Frosted glass cards with `backdrop-filter: blur()`, subtle borders, and layered transparency. Light-mode-first.
 
 ### Typography
 
-- **Font**: Inter (variable, 400–700)
-- **Headlines**: Inter Bold, tight letter-spacing (-0.02em to -0.03em)
-- **Body**: Inter Regular, 16px, line-height 1.6
-- **Overline labels**: Inter SemiBold, 11px, uppercase, amber color
+| Role | Font | Weight | Details |
+|------|------|--------|---------|
+| Headlines | Outfit | 600–700 | Tight letter-spacing, modern geometric sans |
+| Body | Work Sans | 400–500 | 16px base, line-height 1.6 |
+| Overline labels | Work Sans | 600 | 11–12px, uppercase, teal color |
 
 ---
 
@@ -67,17 +69,17 @@ Download all logo files from the [`/logos`](./logos/) directory.
 | Metric | Detail |
 |--------|--------|
 | **Primary market** | Mexico and Latin America |
-| **Languages** | Spanish (primary), English (secondary) |
-| **Core audience** | Solopreneurs, creators, freelancers, small business owners, developers |
-| **Focus** | AI tools, automation, and practical applications for business |
+| **Languages** | Spanish (ES-MX primary), English (EN-US secondary) |
+| **Core audience** | WhatsApp-dependent businesses, solopreneurs, sales teams, agencies |
+| **Focus** | WhatsApp business tools, CRM automation, and practical stack building |
 
-### Who Reads Yocoya
+### Who Uses Yocoya
 
-- Solopreneurs and side-hustlers looking to multiply their time
-- Creators and freelancers producing content at scale
-- Sales teams and businesses automating repetitive tasks
-- Developers and builders integrating AI into real products
-- Students and everyday people exploring what AI can do for them
+- Small businesses running sales and support through WhatsApp
+- Solopreneurs and side-hustlers automating their workflows
+- Sales teams evaluating CRM and messaging tools
+- Agencies managing multiple client WhatsApp accounts
+- Developers integrating WhatsApp Business API into products
 
 ---
 
@@ -89,12 +91,13 @@ Download all logo files from the [`/logos`](./logos/) directory.
 - **Parent company**: Baalam LLC
 - **HQ**: Mexico City (CDMX)
 - **Content approach**: Spanish-first, LATAM-adapted, ad-free
+- **CRM partner**: Kommo (35–50% lifetime affiliate commission)
 
 ---
 
 ## Affiliate Disclosure
 
-Yocoya is ad-free. Some links on our site are affiliate links — we may earn a small commission if you make a purchase. This allows us to keep the platform free of ads and focused on what matters: trusted tech resources and knowledge.
+Yocoya is ad-free. Some links on our site are affiliate links — we may earn a commission if you make a purchase. This allows us to keep the platform free of ads and focused on what matters: trusted tools and knowledge for your business.
 
 ---
 
@@ -107,4 +110,4 @@ For partnerships, press inquiries, or affiliate collaborations:
 
 ---
 
-*Last updated: February 2026*
+*Last updated: March 2026*
